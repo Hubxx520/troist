@@ -6,7 +6,7 @@ namespace Trois\Library;
 
 class Loader
 {
-    public function index(){
-        echo 'hello word';
+    public function test(){
+        return 'hello word';
     }
 }
